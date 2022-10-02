@@ -10,7 +10,6 @@ import emplatado11 from '../../assets/emplatado11.png'
 import emplatado12 from '../../assets/emplatado12.png'
 
 
-
 const FeatureRow = ({ id, title, description }) => {
   return (
     <View>
